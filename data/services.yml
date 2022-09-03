@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Current healthcare interventions are
+services:
+  - icon: ti-settings
+    title: Expensive to presribe
+    description: High costs to companies, governments and individuals
+
+  - icon: ti-check-box
+    title: Fewer course corrections
+    description: Longer feedback cycles
+
+  - icon: ti-key
+    title: Reactive not proactive
+    description: Conditions cannot be reversed, only managed
