@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: We solve this using
+services:
+  - icon: ti-settings
+    title: Amorph engine
+    description: Builds empathy and the human desire to care for others
+
+  - icon: ti-check-box
+    title: Smart Nudges
+    description: Not your nagging parent
+
+  - icon: ti-key
+    title: Federated Machine learning
+    description: Benefits of AI with private health data at the edge

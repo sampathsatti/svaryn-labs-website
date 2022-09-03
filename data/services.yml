@@ -8,9 +8,9 @@ services:
     description: High costs to companies, governments and individuals
 
   - icon: ti-check-box
-    title: Fewer course corrections
+    title: Not responsive
     description: Longer feedback cycles
 
   - icon: ti-key
     title: Reactive not proactive
-    description: Conditions cannot be reversed, only managed
+    description: Cannot be reversed, only managed

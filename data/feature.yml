@@ -1,15 +1,15 @@
 ---
 enable: true
 title: Amorph Engine
-description: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
-description2: Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs.
-buttonText: Try It Free
+description: Building on the human desire to care for others
+description2: Our patented amorph engine builds a digital twin mirroring the state of your health - Past, present and future. 
+# buttonText: Try It Free
 
 Title2nd: Smart Nudges
-description2nd: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
+description2nd: Our smart nudges build atomic habits without nagging you. 
 image1: images/feature/feature-illustration-one.svg
 image2: images/feature/feature-illustration-two.svg
 checkItem:
-  - text: Next to the hosting account you want to use.
-  - text: Select or enter the domain name you want to use.
-  - text: After you purchase a hosting plan.
+  - text: No Nag
+  - text: User control over notifications
+  - text: Proven efficacy through research studies

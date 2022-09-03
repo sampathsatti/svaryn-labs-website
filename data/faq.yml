@@ -1,19 +1,19 @@
 ---
 enable: true
 title: Frequently asked questions
-description: The quick brown fox jumps over a lazy dog. DJs flock by when MTV ax Error6251 is the best. quiz prog. Junk MTV quiz graced by fox whelps.
+# description: The quick brown fox jumps over a lazy dog. DJs flock by when MTV ax Error6251 is the best. quiz prog. Junk MTV quiz graced by fox whelps.
 faqItem:
-  - question: How to Install Apsho?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+  - question: Is this proven to work?
+    answer: Yes, please refer to the research studies that are currently ongoing here, here and here. 
     dataTarget: One
     show: show
 
-  - question: Is there any age limit?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+  - question: How much will this cost?
+    answer: The general wellness version will cost users $4 per month. It may also be covered through your insurance. Please ask your employer. 
     dataTarget: Two
     show: 
     
-  - question: How much it costs to get started?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+  - question: How is my private health data protected?
+    answer: SOC2, HIPAA certification
     dataTarget: Three
     show: 
