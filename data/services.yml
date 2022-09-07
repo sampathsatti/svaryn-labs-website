@@ -9,8 +9,8 @@ services:
 
   - icon: ti-check-box
     title: Not responsive
-    description: Longer feedback cycles
+    description: Longer feedback cycles between health visits
 
   - icon: ti-key
     title: Reactive not proactive
-    description: Cannot be reversed, only managed
+    description: Conditions cannot be reversed, only managed

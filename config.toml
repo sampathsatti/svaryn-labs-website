@@ -10,17 +10,13 @@ theme = "apsho"
     url = "#hero"
     weight = 1
 [[menu.main]]
-    name = "Core Ideas"
+    name = "Problem Statement"
     url = "#feature"
     weight = 2
 [[menu.main]]
     name = "FAQ"
     url = "#faq"
     weight = 3
-[[menu.main]]
-    name = "Founders"
-    url = "#blog"
-    weight = 4
 
 # Footer Sitemap
 [[menu.sitemap]]
