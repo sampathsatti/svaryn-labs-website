@@ -1,16 +1,16 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: Current healthcare interventions are
+title: Unlike existing healthcare interventions, our products are
 services:
   - icon: ti-settings
-    title: Expensive to presribe
-    description: High costs to companies, governments and individuals
+    title: Cost-effective to presribe
+    description: Lower costs to companies, governments and individuals, easy to scale
 
   - icon: ti-check-box
-    title: Not responsive
-    description: Longer feedback cycles between health visits
+    title: Responsive
+    description: Shorter feedback cycles between health check-ins
 
   - icon: ti-key
-    title: Reactive not proactive
-    description: Conditions cannot be reversed, only managed
+    title: Proactive
+    description: Health conditions can be reversed through proactive management

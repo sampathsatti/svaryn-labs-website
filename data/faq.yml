@@ -14,6 +14,6 @@ faqItem:
     show: 
     
   - question: How is my private health data protected?
-    answer: We take greate care in ensuring that your private health data is protected and securely shared when required. We take steps to ensure that health data is stored on your personal device to the extent possible. Data stored by us is secured with industry leading standards.
+    answer: We take great care in ensuring that your private health data is protected and securely shared when required. We take steps to ensure that health data is stored on your personal device to the extent possible. Data stored by us is secured with industry leading standards.
     dataTarget: Three
     show: 
