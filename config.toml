@@ -42,27 +42,27 @@ theme = "apsho"
 
 # Footer Address
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "apsho@example.com"
-phone = "+(448) 833 5272 332"
+address = " "
+email = "contact@svarynlabs.com"
+phone = " "
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
-github = "https://github.com/StaticMania"
+facebook = " "
+twitter = " "
+github = " "
 
 [params]
 
 # Header
-logo = "images/logo.png"
+logo = "images/logo_square.png"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
-footerTitle = "Get the latest app updates"
-copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a> {year}"
+footerTitle = ""
+copyright1 = "Svaryn Labs"
+copyright2 = "All rights reserved"
 
 #contact
-email = "help@staticmania.com"
+email = "contact@svarynlabs.com"
