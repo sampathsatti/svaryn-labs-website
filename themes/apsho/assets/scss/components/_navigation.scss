@@ -1,5 +1,5 @@
 .main-nav {
-  padding: 30px 35px 20px;
+  padding: 5px 5px 5px;
   transition: all 0.5s ease-in-out;
   position: fixed;
   z-index: 99;
@@ -16,7 +16,7 @@
     box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
   }
   @include mobile {
-    padding: 15px 20px;
+    padding: 0px 0px;
   }
 
   .navbar-nav {
@@ -42,9 +42,9 @@
 
   .navbar-brand {
     img {
-      width: 154px;
+      width: 60px;
       @include mobile {
-        width: 120px;
+        width: 45px;
       }
     }
   }
@@ -133,7 +133,7 @@
 
   &.nav-bg {
     background: $white;
-    padding: 15px;
+    padding: 5px;
     border: none;
     box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
     top: 0;
