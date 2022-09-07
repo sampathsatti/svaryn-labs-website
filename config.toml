@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://starlit-lamington-e401c3.netlify.app/"
 languageCode = "en-us"
 title = "Svaryn Labs"
 theme = "apsho"
