@@ -4,7 +4,7 @@ enable: true
 title: Unlike existing healthcare interventions, our products are
 services:
   - icon: ti-settings
-    title: Cost-effective to presribe
+    title: Cost-effective to prescribe
     description: Lower costs to companies, governments and individuals, easy to scale
 
   - icon: ti-check-box
