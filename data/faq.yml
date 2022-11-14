@@ -9,7 +9,7 @@ faqItem:
     show: show
 
   - question: How much will this cost?
-    answer: The general wellness version will cost users $4 per month. It may also be covered through your insurance. Please ask your employer. 
+    answer: The general wellness version will cost users $9.99 per month. It may also be covered through your insurance. Please ask your employer. 
     dataTarget: Two
     show: 
     
